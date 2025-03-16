@@ -30,3 +30,9 @@ Download the model accorading to the os
 ```bash
 https://ollama.com/library/llama3.2
 ```
+
+
+### Output 
+
+![image](https://github.com/user-attachments/assets/324ffd3f-8d87-4383-9dc6-855fa73cfbd0)
+
